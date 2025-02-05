@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-input {
+  background-color: #192331 !important;
+}
+
+.ant-input::placeholder {
+  color: #dadada !important;
+}
+.ant-input {
+  color: white !important;
+}
+.ant-input-number-input-wrap > input {
+  background-color: #192331 !important;
+}
+.ant-input-number-input-wrap > input::placeholder {
+  color: white !important;
+}
+.ant-select-selector {
+  background-color: #192331 !important;
+}
+
+label {
+  color: #dadada !important;
+}
+
+.ant-modal-content {
+  background-color: #192331 !important;
+}
+.ant-modal-title {
+  background-color: #192331 !important;
+  color: #dadada !important;
+}
+.ant-modal-close-icon {
+  color: #dadada !important;
+}
+.ant-upload-list-item-name {
+  color: #dadada !important;
+}
+.ant-select-selection-placeholder {
+  color: #dadada !important;
+}
+.ant-select-selection-item {
+  color: #dadada !important;
+}
+
+#product_price {
+  color: #dadada !important;
+}
+#product_rating {
+  color: #dadada !important;
+}
+#product_available_number {
+  color: #dadada !important;
+}
+#product_discount {
+  color: #dadada !important;
+}
+
+.ant-pagination-item > a {
+  color: #fff !important;
+}
